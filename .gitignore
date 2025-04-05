@@ -1,0 +1,17 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# React Native
+ios/
+android/
+.expo/
+*.log
+
+# Misc
+.DS_Store
