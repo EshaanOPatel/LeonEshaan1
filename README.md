@@ -1,4 +1,4 @@
-# WebApp
+# Tut
 
 inside the frontend directory: 
 
